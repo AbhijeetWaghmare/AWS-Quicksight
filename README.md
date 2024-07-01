@@ -1,3 +1,3 @@
 #Test Readme
 
-![CHEESE!](1.jpg)
+![CHEESE!](images/1.jpg)

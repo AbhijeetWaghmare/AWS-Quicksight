@@ -1,8 +1,9 @@
-Want to create an Amazing Dashoboard Like this..
+#Want to create an Amazing Dashboard like this..
+
 ![CHEESE!](Dashboard.jpg)
 
 
-AWS QUICKSIGHT
+#AWS QUICKSIGHT
 
 ![CHEESE!](images/1.jpg)
 ![CHEESE!](images/2.jpg)
